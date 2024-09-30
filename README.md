@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeeta22" alt="jayeeta22" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, AWS**
-
 - 👨‍💻 All of my projects are available at [https://jayeeta.vercel.app/](https://jayeeta.vercel.app/)
-
-- 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **jayeeta97.riya@gmail.com**
 
