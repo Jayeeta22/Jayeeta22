@@ -66,19 +66,4 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayeeta22&show_icons=true&locale=en&theme=default" alt="jayeeta22 GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeeta22&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeeta22" alt="jayeeta22 streak stats"/>
-
-</div>
